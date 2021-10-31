@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/87612_6bf98354-82d2-11e4-acf3-5cb72523fab8.jpg"  ]
+[preload  storage="./data/bgimage/Academic_Hospital_Interiors_-_Picture_gallery_13.jpg"  ]
+[preload  storage="./data/fgimage/default/focus_001.png"  ]
+[preload  storage="./data/fgimage/default/focus1_001.png"  ]
+[preload  storage="./data/bgimage/bg_base.png"  ]
+[return] 
